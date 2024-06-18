@@ -17,7 +17,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h1 {
+p {
     margin-bottom: 20px;
 }
 
@@ -32,13 +32,5 @@ button {
     margin-left: 10px;
 }
 
-#feedback {
-    margin-top: 20px;
-    font-size: 18px;
-}
 
-#attemptsLeft {
-    margin-top: 10px;
-    font-size: 16px;
-    color: #555;
-}
+
